@@ -18,13 +18,14 @@
 
 <h3 align="left">Languages and Tools that I am learning / have interest:</h3>
 <p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;">
+   </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="60" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer-thumbnail.png" alt="java" width="40" height="40"/>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/>
