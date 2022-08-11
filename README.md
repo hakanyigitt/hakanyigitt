@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 </h1>
-<h2 align="center">Contact Me With Linkedin</h2>
+<h2 align="center"><a href="https://www.linkedin.com/in/hakan-yigit/">Contact Me With Linkedin</a></h2>
 <h5 align="center">
 
 
