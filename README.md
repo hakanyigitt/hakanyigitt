@@ -8,12 +8,10 @@
 <h5 align="center">
 
 
-- 🔭 I’m currently working on FMSS
 - 🌱 I’m currently learning Java Spring and other software technologies
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
 - 📫 How to reach me: hakanyigit028@hotmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: Im addicted to games 😄
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hakanyigitt&show_icons=true&theme=radical)
@@ -25,6 +23,9 @@
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer-thumbnail.png" alt="java" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/>
   </a>
@@ -38,8 +39,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+  
   
 </p>
