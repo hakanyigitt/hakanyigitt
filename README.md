@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
 - 📫 How to reach me: hakanyigit028@hotmail.com
-- ⚡ Fun fact: Im addicted to games 😄
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hakanyigitt&show_icons=true&theme=radical)
 
